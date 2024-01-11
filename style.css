@@ -196,6 +196,9 @@ header ul li{
   color: white;
 }
 
-
+#contact{
+  justify-content: flex;
+  flex-direction: column;
+}
 
 
