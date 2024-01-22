@@ -1,0 +1,18 @@
+#heading {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+#img1{
+    height: 30%; 
+    width:100%;
+}
+#centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:70px;
+    font-style: bold;
+  }
